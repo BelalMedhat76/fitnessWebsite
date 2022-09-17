@@ -8,7 +8,7 @@ class FollowUS extends Component {
   render() {
     return (
       <>
-        <div className="follow">
+        <div className="follow" id="about">
           <div className="followContent">
             <Roll top>
               <img src={insta} alt="" />

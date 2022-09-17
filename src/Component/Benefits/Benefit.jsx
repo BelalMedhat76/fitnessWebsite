@@ -5,7 +5,7 @@ import BenefitCard from "./benefitCard";
 import data from "./benefitData";
 export const Benefit = () => {
   return (
-    <div className="benefitContent">
+    <div className="benefitContent" id="classes">
       <div className=" container">
         <div className="content">
           <Fade top>

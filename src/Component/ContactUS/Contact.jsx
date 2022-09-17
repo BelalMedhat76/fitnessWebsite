@@ -5,7 +5,7 @@ class ContactUs extends Component {
   state = {};
   render() {
     return (
-      <div className="contacts">
+      <div className="contacts" id="contact">
         <div className="container ">
           <div className="row">
             <h1 id="h1">contact us</h1>

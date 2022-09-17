@@ -10,10 +10,12 @@ import "bootstrap/dist/css/bootstrap.css";
 import data from "./cardData";
 import Card from "./card";
 import { Reveal, Roll, Slide } from "react-reveal";
+import Nav from "../Nav/Navabr";
 export const Home = () => {
   return (
     <>
-      <div className="heroSection">
+      <Nav />
+      <div className="heroSection" id="home">
         <div className="heroContent">
           <Zoom>
             <img src={fitlogo} alt="" />

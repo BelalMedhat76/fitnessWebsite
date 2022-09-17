@@ -7,7 +7,7 @@ export const Card = (details) => {
   return (
     <>
       {data.map((details) => (
-        <div className="" key={details.id}>
+        <div className="" key={details.id} id="services">
           <Roll bottom>
             <img src={card3logo} className="cardlogo" alt="" />
           </Roll>

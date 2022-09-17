@@ -6,10 +6,12 @@ import Gallary from "./Component/Gallary/Gallary";
 import FollowUS from "./Component/FollowUs/Follow";
 import { Train } from "./Component/Trainer/Train";
 import ContactUs from "./Component/ContactUS/Contact";
+import Nav from "./Component/Nav/Navabr";
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       <Home />
       <FollowUS />
       <Benefit />
