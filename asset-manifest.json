@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/fitnessWebsite/static/css/main.8bb40edf.css",
-    "main.js": "/fitnessWebsite/static/js/main.5da07712.js",
+    "main.css": "/fitnessWebsite/static/css/main.b774d561.css",
+    "main.js": "/fitnessWebsite/static/js/main.6c1ee384.js",
     "static/media/pic1.jpg": "/fitnessWebsite/static/media/pic1.6d3f2162a87760d367ea.jpg",
+    "static/media/logoo.jpg": "/fitnessWebsite/static/media/logoo.cbe1f58f4f76a813864f.jpg",
     "static/media/getResult.jpg": "/fitnessWebsite/static/media/getResult.01cdc6cdb6ad43a9fa20.jpg",
     "static/media/gall3.jpg": "/fitnessWebsite/static/media/gall3.d02e5a59de79b2e66143.jpg",
     "static/media/gall6.jpg": "/fitnessWebsite/static/media/gall6.3f31ca4caa6f7ccf15dc.jpg",
@@ -21,11 +22,11 @@
     "static/media/train31.jpg": "/fitnessWebsite/static/media/train31.eac77785a230ae22616e.jpg",
     "static/media/train2.jpg": "/fitnessWebsite/static/media/train2.705748bdd0afdb19032f.jpg",
     "index.html": "/fitnessWebsite/index.html",
-    "main.8bb40edf.css.map": "/fitnessWebsite/static/css/main.8bb40edf.css.map",
-    "main.5da07712.js.map": "/fitnessWebsite/static/js/main.5da07712.js.map"
+    "main.b774d561.css.map": "/fitnessWebsite/static/css/main.b774d561.css.map",
+    "main.6c1ee384.js.map": "/fitnessWebsite/static/js/main.6c1ee384.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bb40edf.css",
-    "static/js/main.5da07712.js"
+    "static/css/main.b774d561.css",
+    "static/js/main.6c1ee384.js"
   ]
 }
