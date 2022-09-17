@@ -1,0 +1,39 @@
+.follow{
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.484),
+        rgba(0, 0, 0, 0.438)
+      ), url(../../assets/followUs.jpg);
+      background-position: center center;
+      background-size: cover;
+      height: 100vh;
+      color: #ffffff;
+    position: relative;
+background-attachment: fixed;
+
+}
+.follow img{
+    width: 120px;
+    margin-bottom: 30px;
+}
+
+.followContent{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center;
+
+}
+.followContent h1{
+    font-size: 4rem;
+}
+@media only screen and (max-width: 800px) {
+    .follow img{
+        width: 80px;
+      
+    }   
+    .followContent h1{
+        font-size: 1.5rem;
+    }
+}

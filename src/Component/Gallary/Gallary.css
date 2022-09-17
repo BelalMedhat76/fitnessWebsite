@@ -1,0 +1,302 @@
+.gallary{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+background-attachment: fixed;
+height: 500px;
+position: relative;
+}
+.gallaryContent{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 50px;
+color: #ffffff;
+
+
+}
+.gallaryPara{
+  text-align: center;
+  line-height: 1;
+  margin-top: 20px;
+}
+.gallaryCards{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+flex-wrap: wrap;
+  justify-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.cart1{
+  color: black;
+  text-align: center;
+  width:300px;
+  height: fit-content;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 2px solid #f2b705;
+  margin: 20px;
+}
+.cart1 h1{
+  margin-bottom: 50px;
+}
+.cart1 button{
+  margin-top: 50px;
+  border: 1px solid #0B2B40;
+  padding: 10px;
+  width: 200px;
+  background-color: #f2b705;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.cart1 button:hover{
+  background-color:#0B2B40 ;
+  color: #ffffff;
+}
+.amenities{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+color: black;
+  align-items: center;
+}
+.amenities h1{
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.amenitiesHead{
+  text-align: center;
+line-height: 1.2;
+}
+.amen_Gallary{
+  display:flex ;
+  flex-direction: row;
+align-items: center;
+flex-wrap: wrap;
+  justify-content: center;
+justify-content: space-between;
+margin-bottom: 20px;
+
+}
+.gall1{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall1.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  position: relative;
+
+}
+.gall1 button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #f2b705 ;
+  background-color: #f2b705;
+  text-transform: uppercase;
+}
+.gall1 button:hover{
+  background-color: #0B2B40;
+  border: 1px solid #0B2B40 ;
+  color: #ffffff;
+}
+.gall2{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall2.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  position: relative;
+  
+}
+.gall2 button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #f2b705 ;
+  background-color: #f2b705;
+  text-transform: uppercase;
+}
+.gall2 button:hover{
+  background-color: #0B2B40;
+  border: 1px solid #0B2B40 ;
+  color: #ffffff;
+}
+.gall3{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall3.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  position: relative;
+}
+.gall3 button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #f2b705 ;
+  background-color: #f2b705;
+  text-transform: uppercase;
+}
+.gall3 button:hover{
+  background-color: #0B2B40;
+  border: 1px solid #0B2B40 ;
+  color: #ffffff;
+}
+.gall4{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall4.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  position: relative;
+ 
+}
+.gall4 button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #f2b705 ;
+  background-color: #f2b705;
+  text-transform: uppercase;
+}
+.gall4 button:hover{
+  background-color: #0B2B40;
+  border: 1px solid #0B2B40 ;
+  color: #ffffff;
+}
+.gall5{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall5.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  position: relative;
+  
+}
+.gall5 button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #f2b705 ;
+  background-color: #f2b705;
+  text-transform: uppercase;
+}
+.gall5 button:hover{
+  background-color: #0B2B40;
+  border: 1px solid #0B2B40 ;
+  color: #ffffff;
+}
+.gall6{
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.484),
+    rgba(0, 0, 0, 0.438)
+  ), url(../../assets/gall6.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 350px;
+  width: 350px;
+  position: relative;
+}
+.gall6 button{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: fit-content;
+  height: 50px;
+  padding: 10px;
+  border: 1px solid #f2b705 ;
+  background-color: #f2b705;
+  text-transform: uppercase;
+}
+.gall6 button:hover{
+  background-color: #0B2B40;
+  border: 1px solid #0B2B40 ;
+  color: #ffffff;
+}
+@media only screen and (max-width: 800px) {
+  .gall1{
+    margin-bottom: 20px;
+  }
+  .gall1 button{
+    width: 200px;
+  }
+  .gall2{
+    margin-bottom: 20px;
+  }
+  .gall2 button{
+    margin-bottom: 20px;
+  }
+  .gall3{
+    margin-bottom: 20px;
+  }
+  .gall3 button{
+    width: 200px;
+  }
+  .gall4{
+    margin-bottom: 20px;
+  }
+  .gall5{
+    margin-bottom: 20px;
+  }
+  .gall5 button{
+    width: 200px;
+  }
+  }
+  .gall6{
+    margin-bottom: 20px;
+  }
+  .gall6 button{
+    width: 200px;
+  }
+

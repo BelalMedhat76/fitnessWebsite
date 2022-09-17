@@ -1,0 +1,58 @@
+.benefitContent{
+    background-color: #f2b705;
+    height: 100%;
+    padding-bottom: 50px;
+}
+.content{
+    text-align: center;
+ padding-top: 50px;
+font-size: 3.5rem;
+font-weight: bold;
+
+}
+.benefitCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+.card1{
+    background-color: #ffffff;
+    height: 290px;
+    width: 270px;
+    padding: 20px 10px 20px 10px;
+    text-align: center;
+    margin: 3px;
+margin-top: 4rem;
+}
+.card1 h1{
+    margin-bottom: 20px;
+}
+.morebtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  border-bottom: 2px solid #000;
+  width: 60px;
+  margin: auto;
+ 
+   
+}
+.morebtn:hover{
+    color: #f2b705;
+}
+@media only screen and (max-width: 800px) {
+   .content p{
+    font-size: 2rem;
+   }
+   .card1{
+    height: fit-content;
+    width: fit-content;
+    margin: 10px;
+   }
+   
+}
